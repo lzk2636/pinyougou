@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougousearchweb:war">
+    <output-path>$PROJECT_DIR$/pinyougousearchweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pinyougousearchweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pinyougou-search-web-2.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pinyougousearchweb:war exploded" />
+    </root>
+  </artifact>
+</component>

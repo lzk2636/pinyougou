@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Apr/2019:15:23:30 +0800] "GET /cart/cartList.do?itemId=1369305num=1 HTTP/1.1" 400 968 http-bio-9107-exec-2 689
+0:0:0:0:0:0:0:1 - - [07/Apr/2019:15:23:30 +0800] "GET /cart/cartList.do?itemId=1369305num=1 HTTP/1.1" 400 968 http-bio-9107-exec-1 10806
+127.0.0.1 - - [07/Apr/2019:15:23:33 +0800] "GET /cart/cartList.do?itemId=1369305num=1 HTTP/1.1" 400 968 http-bio-9107-exec-3 3
+127.0.0.1 - - [07/Apr/2019:15:27:43 +0800] "GET /cart/cartList.do?itemId=1369305num=1 HTTP/1.1" 400 968 http-bio-9107-exec-4 4
+127.0.0.1 - - [07/Apr/2019:15:29:26 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-5 524
+127.0.0.1 - - [07/Apr/2019:15:29:28 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-6 12
+127.0.0.1 - - [07/Apr/2019:15:29:29 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-7 9
+127.0.0.1 - - [07/Apr/2019:15:29:29 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-8 9
+127.0.0.1 - - [07/Apr/2019:15:29:30 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-9 9
+127.0.0.1 - - [07/Apr/2019:15:29:30 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-10 10
+127.0.0.1 - - [07/Apr/2019:15:29:30 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-10 7
+127.0.0.1 - - [07/Apr/2019:15:29:31 +0800] "GET /cart/cartList.do?itemId=1369305&num=1 HTTP/1.1" 200 65 http-bio-9107-exec-10 14

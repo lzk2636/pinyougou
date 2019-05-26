@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pinyougou-manager-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06a670f2-104b-4899-a4e3-6e84b7d52a75" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/pinyougouparent/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoupojo/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoudao/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoucommon/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougousellergoodsinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougousellergoodsservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoumanagerweb/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoushopweb/target/" />
+    <ignored path="$PROJECT_DIR$/springserivctry/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoucontentinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoucontentservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouportalweb/target/" />
+    <ignored path="$PROJECT_DIR$/springSolr/target/" />
+    <ignored path="$PROJECT_DIR$/springSolrTemp/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougousearchinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougousearchservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougousearchweb/target/" />
+    <ignored path="$PROJECT_DIR$/freeMarkDome/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoupageinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoupageservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoupageweb/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouuserinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouuserservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouuserweb/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoucartinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoucartservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoucartweb/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouorderinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouorderservice/target/" />
+    <ignored path="E:/JavaEE视频/31.品优购电商系统开发/2018年3月品优购电商系统开发/配套软件/配套软件/微信扫码支付/WxPayAPI_JAVA_v3/java-sdk-v3/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoupayinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoupayservice/target/" />
+    <ignored path="E:/JavaEE视频/31.品优购电商系统开发/2018年3月品优购电商系统开发/配套软件/配套软件/微信扫码支付/开发文档/WxPayAPI_JAVA/java_sdk_v3.0.9/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouseckillinterface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouseckillservice/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougouseckillweb/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougoutaskservice/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pingyougou$login_html.ic" NAME="login.html Coverage Results" MODIFIED="1551878617041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pingyougou" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/java/com/pinyougou/mapper/TbAddressMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/resources/mybatis/SqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/resources/properties/db.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinyougouportalweb/src/main/java/com/pinyougou/portal/controller/contentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougoudao/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-solr.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/java/com/pinyougou/search/service/impl/SolrListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/java/com/pinyougou/search/controller/searcherController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-jms-consumer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deteleFromRedies</find>
+      <find>============&gt;</find>
+      <find>itemList</find>
+      <find>sele</find>
+      <find>limit</find>
+      <find>192.168.25.150</find>
+      <find>192.168.25.151</find>
+      <find>findTobig</find>
+      <find>&lt;link rel=&quot;icon&quot; href=&quot;assets/img/favicon.ico&quot;&gt;</find>
+      <find>js/widget/nav.js</find>
+      <find>&lt;script type=&quot;text/javascript&quot; src=&quot;js/widget/nav.js&quot;&gt;&lt;/script&gt;</find>
+      <find>/css</find>
+      <find>fonts//icon-pc.eot?59lb71</find>
+      <find>192.168.25.152</find>
+      <find>192.168.25.154</find>
+      <find>订单详情</find>
+      <find>$interval</find>
+      <find>time</find>
+      <find>updateOneOrderStatus</find>
+      <find>updateOneOrderStae</find>
+      <find>updates</find>
+      <find>findOnes</find>
+      <find>city1</find>
+      <find>192.168.25.155</find>
+      <find>redis.maxIdle</find>
+      <find>192.168.25.156</find>
+      <find>192.168.25.159:2181,192.168.25.159:2182,192.168.25.159:2183</find>
+      <find>activ</find>
+      <find>queryCategory</find>
+      <find>templates</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;shuxue&quot;</replace>
+      <replace>&quot;yuwen&quot;</replace>
+      <replace>SpecificationList</replace>
+      <replace>brandService</replace>
+      <replace>192.168.25.135</replace>
+      <replace>192.168.25.137</replace>
+      <replace>192.168.25.138</replace>
+      <replace>192.168.25.139</replace>
+      <replace>192.168.25.140</replace>
+      <replace>192.168.25.141</replace>
+      <replace>192.168.25.142</replace>
+      <replace>192.168.25.143</replace>
+      <replace>192.168.25.144</replace>
+      <replace>192.168.25.145</replace>
+      <replace>192.168.25.146</replace>
+      <replace>192.168.25.147</replace>
+      <replace>192.168.25.148</replace>
+      <replace>192.168.25.149</replace>
+      <replace>192.168.25.150</replace>
+      <replace>192.168.25.151</replace>
+      <replace>192.168.25.152</replace>
+      <replace>&lt;link rel=&quot;icon&quot; href=&quot;/img/assets/img/favicon.ico&quot;&gt;</replace>
+      <replace />
+      <replace>192.168.25.154</replace>
+      <replace>192.168.25.155</replace>
+      <replace>192.168.25.156</replace>
+      <replace>192.168.25.128</replace>
+      <replace>192.168.25.128:2181,192.168.25.128:2182,192.168.25.128:2183</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pinyougouuserservice/src/main/java/com/pinyougou/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserinterface/src/main/java/com/pinyougou/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/controller/orderController.js" />
+        <option value="$PROJECT_DIR$/pinyougoudao/src/main/resources/com/pinyougou/mapper/TbOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/pinyougoudao/src/main/java/com/pinyougou/mapper/TbOrderMapper.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/pay.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/paysuccess.html" />
+        <option value="$PROJECT_DIR$/pinyougoupojo/src/main/java/entity/Page.java" />
+        <option value="$PROJECT_DIR$/pinyougoupojo/src/main/java/com/pinyougou/pojo/TbOrder.java" />
+        <option value="$PROJECT_DIR$/pinyougoupojo/src/main/java/com/pinyougou/pojo/TbOrderItem.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/css/webbase.css" />
+        <option value="$PROJECT_DIR$/pinyougoupageservice/src/main/resources/spring/applicationContext-jms-consumer.xml" />
+        <option value="$PROJECT_DIR$/pinyougouseckillweb/src/main/webapp/js/controller/SeckillController.js" />
+        <option value="$PROJECT_DIR$/pinyougouorderinterface/src/main/java/com/pinyougou/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/pinyougouorderservice/src/main/java/com/pinyougou/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/service/orderService.js" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-index.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-order-evaluate.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-order-pay.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-order-receive.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-order-send.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/java/com/pinyougou/user/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-orderDetail.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserinterface/src/main/java/com/pinyougou/user/service/ProvinceService.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserinterface/src/main/java/com/pinyougou/user/service/ProvinceService" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/controller/addressService.js" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/service/addressService.js" />
+        <option value="$PROJECT_DIR$/pinyougouuserinterface/src/main/java/com/pinyougou/user/service/ProvincesService.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/java/com/pinyougou/user/controller/AddressController.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserservice/src/main/java/com/pinyougou/user/service/impl/ProvincesServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/controller/addressController.js" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/provinces.html" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-person-collect.html" />
+        <option value="$PROJECT_DIR$/pinyougoucommon/src/main/resources/properties/dubbox.properties" />
+        <option value="$PROJECT_DIR$/pinyougouuserservice/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/pinyougouorderservice/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucommon/src/main/resources/spring/applicationContext-redis.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pinyougoushopweb/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/springSolrTemp/src/main/java/com/pinyougou/solr/SolrUtil.java" />
+        <option value="$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-solr.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchweb/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucommon/src/main/resources/spring/applicationContext-dubbox.xml" />
+        <option value="$PROJECT_DIR$/springSolrTemp/src/main/resources/spring/applicationContext-solr.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-jms-consumer.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchservice/src/main/java/com/pinyougou/search/service/impl/searcherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pinyougousearchweb/src/main/webapp/WEB-INF/web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="freeMarkDome" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="freeMarkDome" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springSolrTemp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springSolrTemp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springSolrTemp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.pinyougou:pinyougou-dao:2.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="775" />
+    <option name="y" value="285" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougou-manager-web" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pinyougou" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pinyougou" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sellergoods" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsinterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pinyougou" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sellergoods" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="pinyougousellergoodsservice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucartweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucontentservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucontentservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucontentservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucontentservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoucontentservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoudao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouportalweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouportalweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouportalweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouportalweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouportalweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougousearchweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougoushopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserinterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougouuserweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSolrTemp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pingyougou" type="58d84e3e:PackageViewProjectNode" />
+              <item name="pinyougou-manager-web" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="58d84e3e:PackageViewProjectNode" />
+              <item name="pinyougou-parent" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="58d84e3e:PackageViewProjectNode" />
+              <item name="pinyougoucommon" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="58d84e3e:PackageViewProjectNode" />
+              <item name="pinyougoudao" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="58d84e3e:PackageViewProjectNode" />
+              <item name="pinyougousellergoodsservice" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="pingyougou" type="58d84e3e:PackageViewProjectNode" />
+              <item name="pinyougousellergoodsservice" type="616d4139:PackageViewModuleNode" />
+              <item name="spring" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556963225859" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/JavaEE视频/31.品优购电商系统开发/2018年3月品优购电商系统开发/配套软件/配套软件/微信扫码支付/开发文档/WxPayAPI_JAVA/java_sdk_v3.0.9" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38108355" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougouuserweb\src\main\webapp" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougoucommon\src\main\resources\spring" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougoutaskservice\src\main\resources" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougoutaskservice\src\main" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougouseckillweb\src\main\webapp\js\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pinyougou.seckill.controller" />
+      <recent name="com.pinyougou.cart.service" />
+      <recent name="springSolr.pojo" />
+      <recent name="com.pinyougou.manager.controller" />
+      <recent name="com.pinyougou.shop.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougouuserweb\src\main\webapp\js\service" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougoutaskservice\src\main\resources\spring" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\springserivctry\src\main\webapp" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\pinyougoumanagerweb\src\main\webapp\admin" />
+      <recent name="C:\Users\bob\IdeaProjects\pingyougou\springserivctry\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SolrUtil">
+    <configuration name="IdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pinyougou.utils.IdWorker" />
+      <module name="pinyougoucommon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pinyougou.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pinyougou.solr.SolrUtil" />
+      <module name="springSolrTemp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pinyougou.solr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.page.application" />
+      <module name="SprinbootkDome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testMark" />
+      <module name="SprinbootkDome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solrTest.deleteAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springSolr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springSolrTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="springSolrTest" />
+      <option name="MAIN_CLASS_NAME" value="springSolrTest.solrTest" />
+      <option name="METHOD_NAME" value="deleteAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SolrUtil" />
+        <item itemvalue="Application.IdWorker" />
+        <item itemvalue="Application.application" />
+        <item itemvalue="Application.testMark" />
+        <item itemvalue="JUnit.solrTest.deleteAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06a670f2-104b-4899-a4e3-6e84b7d52a75" name="Default Changelist" comment="" />
+      <created>1551409404074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551409404074</updated>
+      <workItem from="1551409405299" duration="16295000" />
+      <workItem from="1551431524029" duration="2835000" />
+      <workItem from="1551435103605" duration="1555000" />
+      <workItem from="1551443986514" duration="4372000" />
+      <workItem from="1551494945329" duration="20715000" />
+      <workItem from="1551583645707" duration="12078000" />
+      <workItem from="1551667098219" duration="25682000" />
+      <workItem from="1551753047355" duration="22281000" />
+      <workItem from="1551843466111" duration="14623000" />
+      <workItem from="1551926046326" duration="18433000" />
+      <workItem from="1552012265417" duration="23231000" />
+      <workItem from="1552099686681" duration="19598000" />
+      <workItem from="1552187189818" duration="12320000" />
+      <workItem from="1552273103782" duration="21141000" />
+      <workItem from="1552362274229" duration="17182000" />
+      <workItem from="1552447297464" duration="13685000" />
+      <workItem from="1552530528404" duration="21027000" />
+      <workItem from="1552617495551" duration="22946000" />
+      <workItem from="1552702614483" duration="15256000" />
+      <workItem from="1552793891776" duration="14534000" />
+      <workItem from="1552874157330" duration="5312000" />
+      <workItem from="1552961996678" duration="15262000" />
+      <workItem from="1553047109041" duration="14646000" />
+      <workItem from="1553143657643" duration="32843000" />
+      <workItem from="1553308543499" duration="15115000" />
+      <workItem from="1553569123451" duration="4695000" />
+      <workItem from="1553575306294" duration="12969000" />
+      <workItem from="1553653309293" duration="20341000" />
+      <workItem from="1553738272484" duration="7437000" />
+      <workItem from="1553825353346" duration="11806000" />
+      <workItem from="1553936395925" duration="7789000" />
+      <workItem from="1553999791914" duration="18761000" />
+      <workItem from="1554082702364" duration="1785000" />
+      <workItem from="1554181730699" duration="1792000" />
+      <workItem from="1554196265484" duration="5032000" />
+      <workItem from="1554256647526" duration="8614000" />
+      <workItem from="1554273638072" duration="12688000" />
+      <workItem from="1554345930795" duration="23209000" />
+      <workItem from="1554451165655" duration="15009000" />
+      <workItem from="1554609856459" duration="9273000" />
+      <workItem from="1554693117419" duration="12706000" />
+      <workItem from="1554776998578" duration="17141000" />
+      <workItem from="1554862344411" duration="14859000" />
+      <workItem from="1554959794456" duration="1935000" />
+      <workItem from="1555036355124" duration="16115000" />
+      <workItem from="1555121024501" duration="6633000" />
+      <workItem from="1555208767142" duration="8559000" />
+      <workItem from="1555226948832" duration="2462000" />
+      <workItem from="1555300145857" duration="19730000" />
+      <workItem from="1555384604995" duration="14618000" />
+      <workItem from="1555467885232" duration="16712000" />
+      <workItem from="1555552474204" duration="24767000" />
+      <workItem from="1555638730119" duration="14538000" />
+      <workItem from="1555815529954" duration="41539000" />
+      <workItem from="1555896343519" duration="30962000" />
+      <workItem from="1555986674290" duration="25555000" />
+      <workItem from="1556071133642" duration="18806000" />
+      <workItem from="1556158600079" duration="6240000" />
+      <workItem from="1556249021727" duration="33848000" />
+      <workItem from="1556503150197" duration="6888000" />
+      <workItem from="1556591552519" duration="10976000" />
+      <workItem from="1556943966493" duration="373000" />
+      <workItem from="1556958709009" duration="4468000" />
+      <workItem from="1556963325235" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 55m 24s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 55m 38s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 55m 56s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 56m 17s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 57m 03s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 57m 44s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 58m 54s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 59m 06s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_queryIn - 2019.03.19 at 13h 59m 18s.xml">
+      <configuration name="solrTest.queryIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="solrTest_deleteAll - 2019.03.19 at 14h 03m 57s.xml">
+      <configuration name="solrTest.deleteAll" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="914718000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49347827" visible="true" weight="0.25201073" />
+      <window_info id="Structure" order="1" sideWeight="0.50652176" side_tool="true" weight="0.2419571" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5049505" side_tool="true" weight="0.2386059" />
+      <window_info id="Web" order="7" sideWeight="0.5048733" side_tool="true" weight="0.23994638" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07637907" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47241867" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.36260054" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49619773" visible="true" weight="0.23190348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5038023" side_tool="true" weight="0.22855228" />
+      <window_info id="Web" order="7" sideWeight="0.5048733" side_tool="true" weight="0.23994638" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07920792" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47241867" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.36260054" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/provinces.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/js/controller/addressController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/home-person-collect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6580">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoupageweb/src/main/webapp/149187842868017.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoupageservice/src/main/webapp/WEB-INF/ftl/item.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="148" column="20" lean-forward="true" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouorderservice/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoupageweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouorderservice/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoucommon/src/main/resources/properties/dubbox.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserservice/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1204">
+          <caret line="43" column="66" selection-start-line="43" selection-start-column="66" selection-end-line="43" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoushopweb/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoucommon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoucartweb/src/main/java/com/pinyougou/cart/controller/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/webapp/js/service/searchService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/webapp/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="112" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/4.10.3/solr-solrj-4.10.3.jar!/org/apache/solr/client/solrj/impl/CloudSolrServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springSolrTemp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springSolrTemp/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-solr/1.5.5.RELEASE/spring-data-solr-1.5.5.RELEASE.jar!/org/springframework/data/solr/core/SolrTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserservice/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserservice/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserservice/src/main/resources/spring/applicationContext-jms-producer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchinterface/src/main/java/com/pinyougou/search/service/searcherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouuserweb/src/main/resources/spring/applicationContext-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoucommon/src/main/resources/spring/applicationContext-dubbox.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springSolrTemp/src/main/resources/spring/applicationContext-solr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springSolrTemp/src/main/java/com/pinyougou/solr/SolrUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="51" column="124" lean-forward="true" selection-start-line="51" selection-start-column="124" selection-end-line="51" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/java/com/pinyougou/search/service/impl/DeleteListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="98" column="37" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/webapp/js/controller/searchController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/java/com/pinyougou/search/service/impl/searcherServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoucommon/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoucommon/src/main/resources/properties/redis-config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/java/com/pinyougou/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoudao/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougoudao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-solr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/java/com/pinyougou/search/service/impl/SolrListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchweb/src/main/java/com/pinyougou/search/controller/searcherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougousearchservice/src/main/resources/spring/applicationContext-jms-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougouportalweb/src/main/java/com/pinyougou/portal/controller/contentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>pinyougousellergoodsservice:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (pinyougousellergoodsservice)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38108355" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pinyougoucommon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38108355" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38108355" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

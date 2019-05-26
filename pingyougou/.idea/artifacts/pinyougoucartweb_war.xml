@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougoucartweb:war">
+    <output-path>$PROJECT_DIR$/pinyougoucartweb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pinyougoucartweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pinyougou-cart-web-2.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pinyougoucartweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+com\pinyougou\user\controller\AddressController.class
+com\pinyougou\user\controller\OrderController.class
+com\pinyougou\user\service\UserDetailServiceImpl.class
+com\pinyougou\user\controller\LoginController.class
+com\pinyougou\user\controller\UserController.class

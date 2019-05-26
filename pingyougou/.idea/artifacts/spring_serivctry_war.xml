@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-serivctry:war">
+    <output-path>$PROJECT_DIR$/springserivctry/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-serivctry</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-serivctry-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-serivctry:war exploded" />
+    </root>
+  </artifact>
+</component>

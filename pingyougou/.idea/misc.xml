@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucartservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucartweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucontentservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoumanagerweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouorderservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoupageservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoupageweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouparent" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoupayservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouportalweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousearchservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousearchweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouseckillservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouseckillweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousellergoodsservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoushopweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoutaskservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouuserservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouuserweb" />
+    <file type="web" url="file://$PROJECT_DIR$/springserivctry" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pinyougouparent/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoudao/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucommon/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousellergoodsinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousellergoodsservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoumanagerweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoushopweb/pom.xml" />
+        <option value="$PROJECT_DIR$/springserivctry/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucontentinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucontentservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouportalweb/pom.xml" />
+        <option value="$PROJECT_DIR$/springSolrTemp/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousearchweb/pom.xml" />
+        <option value="$PROJECT_DIR$/freeMarkDome/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupageinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupageservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupageweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucartinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucartservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucartweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouorderinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouorderservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupayinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupayservice/pom.xml" />
+        <option value="E:/JavaEE视频/31.品优购电商系统开发/2018年3月品优购电商系统开发/配套软件/配套软件/微信扫码支付/开发文档/WxPayAPI_JAVA/java_sdk_v3.0.9/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouseckillinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouseckillservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouseckillweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoutaskservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

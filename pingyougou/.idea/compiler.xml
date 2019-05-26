@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinyougou-content-interface" />
+        <module name="pinyougou-manager-web" />
+        <module name="pinyougou-seckill-web" />
+        <module name="pinyougoucartinterface" />
+        <module name="pinyougoucartservice" />
+        <module name="pinyougoucartweb" />
+        <module name="pinyougoucommon" />
+        <module name="pinyougoucontentservice" />
+        <module name="pinyougoudao" />
+        <module name="pinyougouorderinterface" />
+        <module name="pinyougouorderservice" />
+        <module name="pinyougoupageinterface" />
+        <module name="pinyougoupageservice" />
+        <module name="pinyougoupageweb" />
+        <module name="pinyougoupayinterface" />
+        <module name="pinyougoupayservice" />
+        <module name="pinyougoupojo" />
+        <module name="pinyougouportalweb" />
+        <module name="pinyougousearchinterface" />
+        <module name="pinyougousearchservice" />
+        <module name="pinyougousearchweb" />
+        <module name="pinyougouseckillinterface" />
+        <module name="pinyougouseckillservice" />
+        <module name="pinyougousellergoodsinterface" />
+        <module name="pinyougousellergoodsservice" />
+        <module name="pinyougoushopweb" />
+        <module name="pinyougoutaskservice" />
+        <module name="pinyougouuserinterface" />
+        <module name="pinyougouuserservice" />
+        <module name="pinyougouuserweb" />
+        <module name="SprinbootkDome" />
+        <module name="spring-serivctry" />
+        <module name="springSolrTemp" />
+        <module name="wxpay-sdk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pinyougou-content-interface" target="1.7" />
+      <module name="pinyougou-manager-web" target="1.7" />
+      <module name="pinyougou-parent" target="1.7" />
+      <module name="pinyougou-seckill-web" target="1.7" />
+      <module name="pinyougoucartinterface" target="1.7" />
+      <module name="pinyougoucartservice" target="1.7" />
+      <module name="pinyougoucartweb" target="1.7" />
+      <module name="pinyougoucommon" target="1.7" />
+      <module name="pinyougoucontentservice" target="1.7" />
+      <module name="pinyougoudao" target="1.7" />
+      <module name="pinyougouorderinterface" target="1.7" />
+      <module name="pinyougouorderservice" target="1.7" />
+      <module name="pinyougoupageinterface" target="1.7" />
+      <module name="pinyougoupageservice" target="1.7" />
+      <module name="pinyougoupageweb" target="1.7" />
+      <module name="pinyougoupayinterface" target="1.7" />
+      <module name="pinyougoupayservice" target="1.7" />
+      <module name="pinyougoupojo" target="1.7" />
+      <module name="pinyougouportalweb" target="1.7" />
+      <module name="pinyougousearchinterface" target="1.7" />
+      <module name="pinyougousearchservice" target="1.7" />
+      <module name="pinyougousearchweb" target="1.7" />
+      <module name="pinyougouseckillinterface" target="1.7" />
+      <module name="pinyougouseckillservice" target="1.7" />
+      <module name="pinyougousellergoodsinterface" target="1.7" />
+      <module name="pinyougousellergoodsservice" target="1.7" />
+      <module name="pinyougoushopweb" target="1.7" />
+      <module name="pinyougoutaskservice" target="1.7" />
+      <module name="pinyougouuserinterface" target="1.7" />
+      <module name="pinyougouuserservice" target="1.7" />
+      <module name="pinyougouuserweb" target="1.7" />
+      <module name="SprinbootkDome" target="1.8" />
+      <module name="spring-serivctry" target="1.7" />
+      <module name="springSolr" target="1.8" />
+      <module name="springSolrTemp" target="1.7" />
+      <module name="wxpay-sdk" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

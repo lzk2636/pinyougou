@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="plugins/angularjs/angular.min.js"></script>
+    <link rel="stylesheet" href="plugins/angularjs/pagination.css">
+    <script type="text/javascript" src="plugins/angularjs/pagination.js"></script>
+    <script type="text/javascript" src="js/base/base.js"></script>
+    <script type="text/javascript" src="js/service/addressService.js"></script>
+    <script type="text/javascript"src="js/controller/addressController.js"></script>
+</head>
+<body ng-app="myapp" ng-controller="addressController" ng-init="province()">
+<select   ng-model="itemList.province.provinceid" ng-change="s()">
+
+    <option ng-repeat="item in itemList.province" value="{{item.provinceid}}"
+    >{{item.province}}</option>
+
+</select>
+
+<select ng-model="itemList.city.cityid">
+    <option  ng-repeat="item in itemList.city" value=" {{item.cityid}}">{{item.city}}</option>
+
+</select>
+<select>
+    <option ng-repeat="item in itemList.areses">{{item.area}}</option>
+
+</select>
+</body>
+</html>
